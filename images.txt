@@ -6,4 +6,5 @@
 
 #docker.io/vllm/vllm-openai:v0.5.0
 #ghcr.io/coreweave/ml-containers/torch-extras:acd3ada-nccl-cuda12.2.2-ubuntu20.04-nccl2.21.5-1-torch2.3.0-vision0.18.0-audio2.3.0
-ghcr.io/coreweave/ml-containers/vllm-tensorizer:a5a99e8-19307ba71ddeb7e1cc6aec3c1baa8b50d59c1beb
+#ghcr.io/coreweave/ml-containers/vllm-tensorizer:a5a99e8-19307ba71ddeb7e1cc6aec3c1baa8b50d59c1beb
+nvidia/cuda:12.4.1-devel-ubuntu22.04
